@@ -4,7 +4,7 @@
 
 入力
 ```
-node index.js 18 50
+node main.js 18 50
 ```
 
 出力結果
